@@ -1,0 +1,15 @@
+C:\Users\kianf\Documents\Workspace\Back\DOT NET\DesafioEstacionamento\bin\Debug\net8.0\DesafioEstacionamento.exe
+C:\Users\kianf\Documents\Workspace\Back\DOT NET\DesafioEstacionamento\bin\Debug\net8.0\DesafioEstacionamento.deps.json
+C:\Users\kianf\Documents\Workspace\Back\DOT NET\DesafioEstacionamento\bin\Debug\net8.0\DesafioEstacionamento.runtimeconfig.json
+C:\Users\kianf\Documents\Workspace\Back\DOT NET\DesafioEstacionamento\bin\Debug\net8.0\DesafioEstacionamento.dll
+C:\Users\kianf\Documents\Workspace\Back\DOT NET\DesafioEstacionamento\bin\Debug\net8.0\DesafioEstacionamento.pdb
+C:\Users\kianf\Documents\Workspace\Back\DOT NET\DesafioEstacionamento\obj\Debug\net8.0\DesafioEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kianf\Documents\Workspace\Back\DOT NET\DesafioEstacionamento\obj\Debug\net8.0\DesafioEstacionamento.AssemblyInfoInputs.cache
+C:\Users\kianf\Documents\Workspace\Back\DOT NET\DesafioEstacionamento\obj\Debug\net8.0\DesafioEstacionamento.AssemblyInfo.cs
+C:\Users\kianf\Documents\Workspace\Back\DOT NET\DesafioEstacionamento\obj\Debug\net8.0\DesafioEstacionamento.csproj.CoreCompileInputs.cache
+C:\Users\kianf\Documents\Workspace\Back\DOT NET\DesafioEstacionamento\obj\Debug\net8.0\DesafioEstacionamento.sourcelink.json
+C:\Users\kianf\Documents\Workspace\Back\DOT NET\DesafioEstacionamento\obj\Debug\net8.0\DesafioEstacionamento.dll
+C:\Users\kianf\Documents\Workspace\Back\DOT NET\DesafioEstacionamento\obj\Debug\net8.0\refint\DesafioEstacionamento.dll
+C:\Users\kianf\Documents\Workspace\Back\DOT NET\DesafioEstacionamento\obj\Debug\net8.0\DesafioEstacionamento.pdb
+C:\Users\kianf\Documents\Workspace\Back\DOT NET\DesafioEstacionamento\obj\Debug\net8.0\DesafioEstacionamento.genruntimeconfig.cache
+C:\Users\kianf\Documents\Workspace\Back\DOT NET\DesafioEstacionamento\obj\Debug\net8.0\ref\DesafioEstacionamento.dll
